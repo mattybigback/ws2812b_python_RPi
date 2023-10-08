@@ -90,7 +90,7 @@ if __name__ == '__main__':
 
     try:
         while True:
-            print("Matt's Shitty Animation")
+            print("Single pixel wipe")
             single_pixel_wipe(strip, pixel_color=random_color_simple())
 
     except KeyboardInterrupt:
