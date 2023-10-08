@@ -1,7 +1,7 @@
 ##!/usr/bin/env python3
 # NeoPixel library ring spin example
 # Author: Matt Harrison
-# Repo: 
+# Repo: https://github.com/mattybigback/ws2812b_python_RPi
 # Adapted from strandtest.py by Tony DiCola (tony@tonydicola.com)
 # https://github.com/rpi-ws281x/rpi-ws281x-python/blob/master/examples/strandtest.py
 
