@@ -8,4 +8,4 @@ Work adapted from the examples at the [rpi-ws281x-python repo
 Switches on a single pixel and sends it around the ring
 
 ### Ring Spin (Classes)
-Switches on a single pixel and sends it around the ring. Uses a class which allows for better control of the animation. 
+Switches on a single pixel and sends it around the ring. Uses a class which allows for better control of the animation.
